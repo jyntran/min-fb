@@ -1,0 +1,37 @@
+/*
+	min(fb)
+*/
+
+/* Left menus */
+#sideNav, #leftCol ._1qkq ._1qks, ._4wol,
+#pages_navigation,
+
+/* Right menus */
+#rightCol ._64a,
+#pages_side_column,
+
+/* Post form */
+#pagelet_composer
+{
+    display: none
+}
+
+
+/* Main content */
+#globalContainer,
+#pagelet_timeline_main_column
+{
+    width: 90% !important;
+    max-width: 1024px
+}
+
+#contentArea, ._1ql0
+{
+    width: 100% !important;
+    left: 0
+}
+
+#contentArea, #contentCol
+{
+    margin: 0 !important
+}
